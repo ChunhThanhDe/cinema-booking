@@ -38,7 +38,7 @@ jobs:
         FIREBASE_OPTION: ${{ secrets.FIREBASE_OPTIONS }}
         ANDROID_GOOGLE_SERVICE: ${{ secrets.ANDROID_GOOGLE_SERVICE }}
     - name: Flutter action
-      uses: subosito/flutter-action@v2.16.0
+      uses: subosito/flutter-action@v2.18.0
       with:
         flutter-version: '3.29.0'
         channel: 'stable'
@@ -82,7 +82,7 @@ jobs:
         FIREBASE_OPTION: ${{ secrets.FIREBASE_OPTIONS }}
         IOS_GOOGLE_SERVICE: ${{ secrets.IOS_GOOGLE_SERVICE }}
     - name: Install Flutter
-      uses: subosito/flutter-action@v2.16.0
+      uses: subosito/flutter-action@v2.18.0
       with:
         flutter-version: '3.29.0'
         channel: 'stable'
