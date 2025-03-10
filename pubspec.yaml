@@ -56,7 +56,7 @@ dependencies:
 
   # for google map
   google_maps_flutter: ^2.10.0
-  google_maps_flutter_web: ^0.5.10
+  google_maps_flutter_web: ^0.5.11
 
   # 
   go_router: ^14.8.0
