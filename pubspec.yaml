@@ -72,7 +72,7 @@ dev_dependencies:
   retrofit_generator: ^9.1.9
 
   # object builder state management
-  freezed: ^3.0.3
+  freezed: ^3.0.4
   freezed_annotation: ^3.0.0
 
   #for icon app
