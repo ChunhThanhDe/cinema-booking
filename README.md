@@ -17,6 +17,12 @@ And what could be better than starting a new project to kick off the year?
   <img src="assets/gif/iam_ready.gif" alt="" width="350">
 </p>
 
+## 💖 Support 
+
+- If you wanna get updates in next version, please give me a ⭐ to the repo 👍
+- If you love my work and want to support, references me a part-time job, collaboration an interesting project or a good full-time job.
+
+  Thank you so much 👍
 
 ## 🎬 Working application
 
