@@ -32,7 +32,7 @@ dependencies:
 
   # for local database
   sqflite: 2.4.2
-  shared_preferences: ^2.5.2
+  shared_preferences: ^2.5.3
 
   # support for create model
   json_serializable: ^6.9.4
