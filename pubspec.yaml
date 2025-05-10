@@ -55,7 +55,7 @@ dependencies:
   intl: ^0.20.2
 
   # for google map
-  google_maps_flutter: ^2.10.0
+  google_maps_flutter: ^2.12.1
   google_maps_flutter_web: ^0.5.10
 
   # 
