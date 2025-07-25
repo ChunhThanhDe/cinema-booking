@@ -1,11 +1,12 @@
-# A simplified Real Movie Booking App 🎬 🍿 - Built with Flutter, Clean Template, BLoC, REST API, Firebase Auth, and Unit-Tests.
+# A simplified Real Movie Booking App 🎬 [🍿](https://www.youtube.com/@CHUNGCINE?sub_confirmation=1) - Built with Flutter, Clean Template, BLoC, REST API, Firebase Auth, and Unit-Tests.
 
 > I’ve open-sourced this project to showcase some of my skills and to help early-career Flutter developers grow in their career.
 >
 > Like ["Nezha: Birth Of The Demon Child"](https://www.youtube.com/watch?v=xdOgym7MLAU), I believe that for those just starting out in Flutter, completing this project might be a challenge. However, once you get through it, you’ll either succeed and grow stronger. (Không thành công cũng thành nhân) (失败也是成功)
 >
 > I’ll also support so feel free to start with new issue if you have difficulty because I know it’s not as easy for everyone. :muscle:
-
+>
+> If you want to support me, help me sub my YouTube channel [CHUNGCINE](https://www.youtube.com/@CHUNGCINE?sub_confirmation=1). Thank you so much <3  
 
 ## Happy new year 2025 🎉
 
@@ -19,7 +20,7 @@ And what could be better than starting a new project to kick off the year?
 
 ## 💖 Support 
 
-- If you wanna get updates in next version, please give me a ⭐ to the repo 👍
+- If you wanna get updates in next version, please give me a ⭐ to the repo [👍](https://www.youtube.com/@CHUNGCINE?sub_confirmation=1)
 - If you love my work and want to support, references me a part-time job, collaboration an interesting project or a good full-time job.
 
   Thank you so much 👍
