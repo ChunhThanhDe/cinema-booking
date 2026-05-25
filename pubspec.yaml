@@ -21,7 +21,7 @@ dependencies:
   # for login function
   google_sign_in: ^6.2.2
   google_sign_in_web: ^0.12.4
-  firebase_auth: ^5.4.2
+  firebase_auth: ^5.7.0
   scrollable_positioned_list: ^0.3.8
 
   # suitable with bloc
