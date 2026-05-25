@@ -21,7 +21,7 @@ jobs:
       group: ${{ github.event.pull_request.number || github.event.pull_request_target.number || github.ref }}
     steps:
     - name: checkout source code
-      uses: actions/checkout@v4.1.7
+      uses: actions/checkout@v6
       with:
         ref: ${{ github.event.pull_request_target.head.ref || github.event.pull_request.head.ref }}
         repository: ${{ github.event.pull_request_target.head.repo.full_name || github.event.pull_request.head.repo.full_name}}
@@ -69,7 +69,7 @@ jobs:
   #   needs: validation
   #   steps:
   #   - name: Checkout
-  #     uses: actions/checkout@v4.1.7
+  #     uses: actions/checkout@v6
   #     with:
   #       ref: ${{ github.event.sha }}
   #       repository: ${{ github.event.pull_request_target.head.repo.full_name || github.event.pull_request.head.repo.full_name}}
